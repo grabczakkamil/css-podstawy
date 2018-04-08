@@ -31,3 +31,13 @@ body {
     bottom: 40px;
     right: 20px;
 }
+
+#pierwszy-prim {
+    background-color: yellow;
+    margin: 5px;
+}
+
+#pierwszy-absolutny {
+    background-color: violet;
+    margin: 5px;
+}
