@@ -26,3 +26,9 @@ body {
 #procenty {
     width: 40%;
 }
+#vw {
+    width: 40vw;
+}
+#vh {
+    width: 40vh;
+}
