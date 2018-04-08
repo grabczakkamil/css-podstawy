@@ -8,7 +8,7 @@ body {
     height: 100px;
     margin-bottom: 10px;
 
-    position: absolute;
+    position: relative;
     top: 40px;
     left: 30px;
 }
@@ -17,6 +17,8 @@ body {
     background-color: red;
     width: 600px;
     height: 100px;
+    
+    top: 50px;
 
 }
 
@@ -24,4 +26,8 @@ body {
     background-color: lime;
     width: 100px;
     height: 100px;
+    
+    position: fixed;
+    bottom: 40px;
+    right: 20px;
 }
