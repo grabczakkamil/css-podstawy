@@ -23,3 +23,10 @@ h1 + p {
 h1 ~ p {
     color: aqua;
 }
+
+ul#lista > li:not(.last) {
+    background-color: beige;
+}
+ul#lista > li:nth-child(3) {
+    background-color: red;
+}
