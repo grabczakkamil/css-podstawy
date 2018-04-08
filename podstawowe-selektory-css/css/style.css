@@ -13,3 +13,6 @@ a, span, div {
 li > a {
     background-color: yellow;
 }
+ul a {
+    background-color: blue;
+}
