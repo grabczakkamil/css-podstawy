@@ -11,3 +11,18 @@ body {
     background-color: lightcoral;
     margin-bottom: 10px;
 }
+#piksel {
+    width: 400px;
+}
+#em {
+    width: 15em;
+}
+#ex {
+    width: 40ex;
+}
+#rem {
+    width: 10rem;
+}
+#procenty {
+    width: 40%;
+}
