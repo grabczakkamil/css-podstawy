@@ -10,3 +10,6 @@ p#paragraf {
 a, span, div {
     background-color: lime;
 }
+li > a {
+    background-color: yellow;
+}
